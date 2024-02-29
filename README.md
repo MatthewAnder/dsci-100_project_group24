@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# dsci-100-group24
+DSCI 100 group 24 project repository
